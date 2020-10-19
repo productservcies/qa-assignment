@@ -5,7 +5,7 @@ Following is a story we need to implement. As our QA, we would like you to provi
 - If the story below is missing any ACs, please document that, ad add the relevant test scenarios
 - If something is not clear, please document your assumptions, and continue based on that, or contact us for clarification
 - If you need a service to interact with, please mock as needed
-- We are not expecting fully working tests, but they should at least compile and be written to PROD standards       
+- We are not expecting fully working tests, but it should at least compile and be written to PROD standards       
  
 ##### Story
 As a 10x Client
