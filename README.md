@@ -9,9 +9,8 @@ Following is a story we need to implement. As our QA, we would like you to provi
  
 ##### Story
 As a 10x Client
-I want to be able to ascertain when I believe I have a reconciliation break between messages published and consumed what the missing message_id values might be
+I want to be able to ascertain what messages have been published between a range of time unit
 So that I can request a republication of a message produced but not received.
-Validation for date boundaries will be managed by the orchestrating 10x micro-service which will validate for the extent of dates requested and impossible date conditions.
 
 ##### Request
 ```HTTP POST```
