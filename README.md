@@ -7,7 +7,7 @@ Following is a story we need to implement. As our QA, we would like you to provi
 - If you need a service to interact with, please mock as needed
 - We are not expecting fully working tests, but they should at least compile and be written to PROD standards       
  
-
+##### Story
 As a 10x Client
 I want to be able to ascertain when I believe I have a reconciliation break between messages published and consumed what the missing message_id values might be
 So that I can request a republication of a message produced but not received.
