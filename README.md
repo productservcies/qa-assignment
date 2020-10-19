@@ -1,4 +1,13 @@
 #### Description 
+Following is a story we need to implement. As our QA, we would like you to provide the test scenarios needed to ensure this feature is fully tested.
+- Automated testing should written in BDD style
+- Language should preferably be Java 11
+- If the story below is missing any ACs, please document that, ad add the relevant test scenarios
+- If something is not clear, please document your assumptions, and continue based on that, or contact us for clarification
+- If you need a service to interact with, please mock as needed
+- We are not expecting fully working tests, but they should at least compile and be written to PROD standards       
+ 
+
 As a 10x Client
 I want to be able to ascertain when I believe I have a reconciliation break between messages published and consumed what the missing message_id values might be
 So that I can request a republication of a message produced but not received.
